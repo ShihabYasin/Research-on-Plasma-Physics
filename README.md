@@ -9,4 +9,11 @@ applicable and powerful mathematical tool in the symbolic computational approach
 field of mathematical physics and engineering. The exact solutions of this equation play a 
 vital role for describing different types of wave propagation in any varied natural instances. 
 
-[Intro.pdf]https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/BSS%20EQN%20MATERIALS_PAPER_.pdf
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/1.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/2.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/3.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/4.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/5.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/6.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/7.PNG)
+![alt text](https://github.com/ShihabYasin/PLASMA-PHYSICS/blob/master/8.PNG)
