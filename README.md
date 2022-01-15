@@ -2,7 +2,7 @@
 
 ### Solitary and periodic wave solutions of the fourth order Boussinesq equation through the novel exponential expansion method
 
-### This research work was not published by myself (permitted to copy). [**paper-draft**](https://github.com/ShihabYasin/Research-on-Partial-Differential-Equation/blob/master/BSS%20EQN%20MATERIALS/paper_draft.pdf)
+### This research work was not published by myself (permitted to copy). [**paper-draft**](https://github.com/ShihabYasin/Research-on-Plasma-Physics/blob/master/paper-draft/paper_draft.pdf)
 
 ### Later published in [**American Journal of Applied Mathematics**](https://www.sciencepublishinggroup.com/journal/paperinfo?journalid=148&doi=10.11648/j.ajam.20190702.12) by 
 
